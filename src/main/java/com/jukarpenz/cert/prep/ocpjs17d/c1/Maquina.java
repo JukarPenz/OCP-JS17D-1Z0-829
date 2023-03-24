@@ -1,5 +1,10 @@
 package com.jukarpenz.cert.prep.ocpjs17d.c1;
 
+class Sopa{
+
+}
+
+
 public class Maquina {
 
     public static void main(String[] args) {
