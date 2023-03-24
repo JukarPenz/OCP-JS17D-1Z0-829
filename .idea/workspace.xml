@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/C1_BuildingBlocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jars/ZooJar.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.java" afterDir="false" />
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679533372565</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1679694917168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679694917168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
