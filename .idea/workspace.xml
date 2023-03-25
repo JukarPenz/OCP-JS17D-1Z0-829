@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Auto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/C1_BuildingBlocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jars/ZooJar.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/ScopeObj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Maquina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +50,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maquina">
-    <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Auto" />
+  <component name="RunManager" selected="Application.ScopeObj">
+    <configuration name="Bird (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maquina (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Maquina" />
+    <configuration name="Bird (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maquina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Maquina" />
+    <configuration name="Bird (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Zoo" />
+    <configuration name="Bird (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
+      <module name="OCPJS17Prep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.ScopeObj" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -111,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maquina" />
-        <item itemvalue="Application.Maquina (1)" />
-        <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.Auto" />
+        <item itemvalue="Application.ScopeObj" />
+        <item itemvalue="Application.Bird (1)" />
+        <item itemvalue="Application.Bird (5)" />
+        <item itemvalue="Application.Bird (4)" />
+        <item itemvalue="Application.Bird (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679694917168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1679694923419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679694923419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
