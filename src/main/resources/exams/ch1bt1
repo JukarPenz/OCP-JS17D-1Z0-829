@@ -1,0 +1,25 @@
+##question number. myanswers separated by comma. [OK if answers are  correct][expected answers if wrong]
+
+q1. d,e. OK.
+q2. c,d,e. OK.
+q3. a,e. OK.
+q4. b, e,g. OK.
+q5. a, d,f. OK.
+q6. f. OK.
+q7. f. c. c, e. WR //text block
+q8. b,d,g,h. WR. b,d,e,h. //runtme exception arithmeticexception divided by 0
+q9. e. OK
+q10. a,e,f. OK
+q11. e. OK
+q12. a,c,d. OK
+q13.a. WR. a,b,c. // import classes and wildcards
+q14.a,b,d,e. OK.
+q15.c,e,f,g. WR. c,e,f.//final variable will still alive until
+q16.b,d. WR. a,d.// textblock \ line skipper
+q17.d,f,g. OK.
+q18. b, c,d,f. WR. b,c,f. // var  can't be used in multiple variable assignment statement
+q19. d. WR. a,d.// parseLong(string) -> primitive ; valueOf(long or string)
+q20. a,b.
+q21. d. OK
+q22. c,d,g,h. WR.c,f,g. // ok declarations literal numerics other system
+q23.a,d, OK.

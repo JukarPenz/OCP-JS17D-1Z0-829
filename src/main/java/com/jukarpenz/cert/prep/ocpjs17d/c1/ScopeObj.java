@@ -16,4 +16,9 @@ public class ScopeObj {
         System.out.println("Three[\"b\"]: " + three);
     }
 
+    void runing(){
+        System.out.println(ff);
+    }
+    float ff;
+
 }
