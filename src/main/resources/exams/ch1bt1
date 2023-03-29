@@ -18,7 +18,7 @@ q15.c,e,f,g. WR. c,e,f.//final variable will still alive until
 q16.b,d. WR. a,d.// textblock \ line skipper
 q17.d,f,g. OK.
 q18. b, c,d,f. WR. b,c,f. // var  can't be used in multiple variable assignment statement
-q19. d. WR. a,d.// parseLong(string) -> primitive ; valueOf(long or string)
+q19. d. WR. a,d.// parseLong(string) -> primitive ; valueOf(long or string)  -> Wrapper
 q20. a,b.
 q21. d. OK
 q22. c,d,g,h. WR.c,f,g. // ok declarations literal numerics other system

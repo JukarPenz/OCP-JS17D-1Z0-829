@@ -16,7 +16,7 @@ public class KitchenSink {
 
         var num1 = Long.parseLong("100");
         var n2 = Long.valueOf(100);
-
+        int Public = 3;
 
         int c=8,r=7;
         var day = 1/0;
