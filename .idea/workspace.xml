@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c2/Oper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/KitchenSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/KitchenSink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/exams/ch1bt1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/exams/ch1bt1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +49,8 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.KitchenSink">
+  <component name="RunManager" selected="Application.Oper">
     <configuration name="Bird (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
-      <module name="OCPJS17Prep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bird (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
@@ -103,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c2.Oper" />
+      <module name="OCPJS17Prep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScopeObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.ScopeObj" />
       <module name="OCPJS17Prep" />
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oper" />
         <item itemvalue="Application.KitchenSink" />
         <item itemvalue="Application.ScopeObj" />
         <item itemvalue="Application.Bird (1)" />
         <item itemvalue="Application.Bird (5)" />
-        <item itemvalue="Application.Bird (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680111525196</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1680117575928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117575928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
