@@ -20,6 +20,7 @@ public class Oper {
         sample2 = sample2++;
         sample2 = sample2++;
         long h = 3;
+
 //        h -= 1.0;
         System.out.println("Sample: "+sample2);
 
