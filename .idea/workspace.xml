@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Decision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Freq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/text2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/ScopeObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/ScopeObj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c2/Oper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c2/Oper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +33,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="2N1oNw4xWzBN0VsfsnrY8Dub40i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,13 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Oper">
-    <configuration name="Bird (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
+  <component name="RunManager" selected="Application.Freq">
+    <configuration name="Decision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Decision" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,25 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bird (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.Bird" />
+    <configuration name="Freq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Freq" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KitchenSink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.KitchenSink" />
-      <module name="OCPJS17Prep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c1.ScopeObj" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Solution" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c1.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Solution3" />
+      <module name="OCPJS17Prep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Freq" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Decision" />
         <item itemvalue="Application.Oper" />
-        <item itemvalue="Application.KitchenSink" />
-        <item itemvalue="Application.ScopeObj" />
-        <item itemvalue="Application.Bird (1)" />
-        <item itemvalue="Application.Bird (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680215257972</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1680215346064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680215346064</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

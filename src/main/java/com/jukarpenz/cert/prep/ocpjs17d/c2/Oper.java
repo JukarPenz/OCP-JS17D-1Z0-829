@@ -1,5 +1,7 @@
 package com.jukarpenz.cert.prep.ocpjs17d.c2;
 
+import java.util.List;
+
 public class Oper {
 
 //1: public class CandyCounter {
@@ -20,6 +22,10 @@ public class Oper {
         sample2 = sample2++;
         sample2 = sample2++;
         long h = 3;
+        Number v = 12;
+        if(v instanceof List de){
+            de.add(null);
+        }
 
 //        h -= 1.0;
         System.out.println("Sample: "+sample2);
