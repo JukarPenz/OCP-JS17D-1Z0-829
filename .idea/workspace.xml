@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Decision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Freq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c3/text2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Chimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Flu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/oth/Rope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/AbsAp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/BigCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Leopard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Merrkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/SuperProperty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/ScopeObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c1/ScopeObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c2/Oper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c2/Oper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +59,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Freq">
-    <configuration name="Decision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Decision" />
+  <component name="RunManager" selected="Application.Zoo">
+    <configuration name="AbsAp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.AbsAp" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Freq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Freq" />
+    <configuration name="Apartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Apartment" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c2.Oper" />
+    <configuration name="Merrkat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Merrkat" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c2.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Solution" />
+    <configuration name="Property" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Property" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c3.Solution3" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Zoo" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c3.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Freq" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Decision" />
-        <item itemvalue="Application.Oper" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Property" />
+        <item itemvalue="Application.Merrkat" />
+        <item itemvalue="Application.Apartment" />
+        <item itemvalue="Application.AbsAp" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680215346064</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1680823802732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680823802732</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
