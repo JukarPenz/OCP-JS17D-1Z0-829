@@ -2,13 +2,26 @@ package com.jukarpenz.cert.prep.ocpjs17d.c4;
 
 import java.time.*;
 
+import static java.time.temporal.ChronoUnit.DAYS;
+
 public class Timing {
 
 //    static final private String lol;
     static {
 //
     }
+
+
     public static void main(String[] args) {
+
+        var created = Instant.now().minus(6, DAYS);
+//        Instant now = Instant.now();
+        int vd = created.compareTo(Instant.now().minus(7,java.time.temporal.ChronoUnit.DAYS));
+        System.out.println(vd);
+
+        System.gc();
+        if(true)
+            System.exit(2);
 
         long df = Integer.valueOf(3);
         Integer i = 0;

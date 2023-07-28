@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Chimp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Flu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/oth/Rope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/AbsAp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/BigCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Leopard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Merrkat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/Carnivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/Good.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/sub/SuperProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/FilterMapSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +47,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zoo">
-    <configuration name="AbsAp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.AbsAp" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jukarpenz.cert.prep.ocpjs17d.c6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChildClassTest">
+    <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.ChildClass" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -73,21 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Apartment" />
-      <module name="OCPJS17Prep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Merrkat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Merrkat" />
+    <configuration name="ChildClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.ChildClassTest" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
@@ -112,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Timing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c4.Timing" />
+      <module name="OCPJS17Prep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Zoo" />
       <module name="OCPJS17Prep" />
@@ -127,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChildClassTest" />
+        <item itemvalue="Application.Timing" />
+        <item itemvalue="Application.ChildClass" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.Property" />
-        <item itemvalue="Application.Merrkat" />
-        <item itemvalue="Application.Apartment" />
-        <item itemvalue="Application.AbsAp" />
       </list>
     </recent_temporary>
   </component>
