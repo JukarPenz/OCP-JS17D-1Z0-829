@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/FilterMapSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/SuperClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/AbstractMethdsIfc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/CanBurrowInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/Climb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/ConcreteIfMethds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/FieldMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/FieldMouseChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/PrivMethdsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/SealingClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c4/Timing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c6/ChildClassTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/carlospecina/Desktop/dev/spring/crudek&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -52,13 +58,13 @@
       <recent name="com.jukarpenz.cert.prep.ocpjs17d.c6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChildClassTest">
-    <configuration name="ChildClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.ChildClass" />
+  <component name="RunManager" selected="Application.SealingClasses">
+    <configuration name="Enums (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Enums" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChildClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.ChildClassTest" />
+    <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Enums" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Property" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Property" />
+    <configuration name="SealingClasses (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.SealingClasses" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c4.Timing" />
+    <configuration name="SealingClasses (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.SealingClasses" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c4.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c6.Zoo" />
+    <configuration name="SealingClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.SealingClasses" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c6.*" />
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChildClassTest" />
-        <item itemvalue="Application.Timing" />
-        <item itemvalue="Application.ChildClass" />
-        <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.Property" />
+        <item itemvalue="Application.SealingClasses" />
+        <item itemvalue="Application.SealingClasses (2)" />
+        <item itemvalue="Application.SealingClasses (1)" />
+        <item itemvalue="Application.Enums" />
+        <item itemvalue="Application.Enums (5)" />
       </list>
     </recent_temporary>
   </component>
