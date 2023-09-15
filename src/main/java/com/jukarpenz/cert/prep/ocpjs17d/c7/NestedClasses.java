@@ -216,10 +216,16 @@ class ResumenClasses{
         class StaticNested{
 //            int y = x;
         }
+        interface LocalInterface {}
 
-        class LocalClass{
+        class LocalClass extends StaticNested implements LocalInterface{
             int y = x+a;
         }
+
+
+        StaticNested sn = new LocalClass();
+        LocalInterface li = new LocalClass();
+
 //        a=3;
         x=6;
 
