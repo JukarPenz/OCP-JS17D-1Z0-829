@@ -70,6 +70,7 @@ class Wolfo implements Canine {
 
     public static void main(String[] args) {
         Wolfo w = new Wolfo();
+//        System.out.println(w instanceof Canine);
         Canine dogW = (Canine) w;
     }
 }
@@ -91,10 +92,12 @@ class Capybara extends Rodent{
 //        Capybara cr = new Rodent();
         Rodent r = new Capybara();
         r.doRo();
+//        r.doCa();
 //        var c = (Capybara) r;
         Capybara c = null;
         if(r instanceof Capybara){
             c=(Capybara) r;
+            c.doCa();
             System.out.println("Setting Capybara");
         }
         else{
