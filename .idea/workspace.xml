@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a31409-3929-46fd-b3f9-ab703471a97e" name="Changes" comment="commit, nested clasees">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c8/aLambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jukarpenz/cert/prep/ocpjs17d/c7/Polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="com.jukarpenz.cert.prep.ocpjs17d.c6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Capybara">
+  <component name="RunManager" selected="Application.TraditionalSearch">
     <configuration name="Capybara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Capybara" />
       <module name="OCPJS17Prep" />
@@ -66,33 +66,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Home (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Home" />
-      <module name="OCPJS17Prep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Home (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Home" />
-      <module name="OCPJS17Prep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Home" />
       <module name="OCPJS17Prep" />
       <extension name="coverage">
@@ -118,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TraditionalSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c8.TraditionalSearch" />
+      <module name="OCPJS17Prep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jukarpenz.cert.prep.ocpjs17d.c8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Wolfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jukarpenz.cert.prep.ocpjs17d.c7.Wolfo" />
       <module name="OCPJS17Prep" />
@@ -133,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TraditionalSearch" />
         <item itemvalue="Application.Capybara" />
         <item itemvalue="Application.Wolfo" />
         <item itemvalue="Application.Lemur" />
         <item itemvalue="Application.Home (2)" />
-        <item itemvalue="Application.Home (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695423661620</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit, nested clasees">
+      <option name="closed" value="true" />
+      <created>1695424272277</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695424272277</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
